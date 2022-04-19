@@ -1,0 +1,14 @@
+{
+  "name": "luxon-lux",
+  "version": "1.0.0",
+  "description": "Luxurious Luxon Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "luxon"
+  ],
+  "author": "Praveen Luxon",
+  "license": "MIT"
+}
