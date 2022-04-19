@@ -7,3 +7,7 @@ https://moment.github.io/luxon/#/
 # Built-in setLocale
 
 ![setLocale](setLocale.png)
+
+# Month and Weekdays in different languages
+
+![locale](locale.png)
